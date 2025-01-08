@@ -67,5 +67,5 @@ This project is licensed under the MIT License.
 For any questions or collaboration opportunities, feel free to reach out via GitHub or LinkedIn.
 
 ---
-**[👉 View the PowerBI Dashboard](#)**
+**[👉 View the PowerBI Dashboard](https://github.com/Afraj2004/Pizza-Sales-Report/blob/main/Power%20BI%20Report%20PDF.pdf)**
 
